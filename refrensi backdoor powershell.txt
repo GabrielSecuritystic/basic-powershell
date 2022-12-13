@@ -1,0 +1,2 @@
+refrensi backdoor powershell:
+https://github.com/samratashok/nishang/tree/master/Backdoors

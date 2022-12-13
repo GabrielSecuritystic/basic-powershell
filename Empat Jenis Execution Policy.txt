@@ -1,0 +1,15 @@
+Empat Jenis Execution Policy (Pada Bab Powershell)
+
+1.Restricted
+bawaan windows. artinya jenis ini tdk dapat menjalankan skrip powershell.
+
+2.AllSigned
+bisa menjalankan skrip yang sudah dibubuhi digital signature
+
+3.RemoteSigned
+boleh menjalankan skrip buatan sendiri tanpa digital signature,
+skrip unduhan luar tetap wajib dibubuhi digital signature
+
+4.Unrestricted
+tdk ada pengamanan apa pun saat menjalankan skrip
+
